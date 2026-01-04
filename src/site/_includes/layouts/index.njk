@@ -59,6 +59,8 @@
       {% for imp in dynamics.index.afterContent %}
         {% include imp %}
       {% endfor %}
+          <script src="https://giscus.app/client.js" data-repo="NaharEmet/Anantha" data-repo-id="R_kgDOQzkKXw" data-category="General" data-category-id="DIC_kwDOQzkKX84C0kbS" data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme" data-lang="en" data-loading="lazy" crossorigin="anonymous" async>
+</script>
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true%}
@@ -75,5 +77,6 @@
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
+ 
     </body>
   </html>

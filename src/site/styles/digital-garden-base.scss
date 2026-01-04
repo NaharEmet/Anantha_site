@@ -145,17 +145,8 @@ img {
 
 .content {
     max-width: var(--dg-content-max-width);
-    // Dynamic left margin with three constraints:
-    // 1. Never overlap filetree (minimum)
-    // 2. Try to center in viewport
-    // 3. But shift left if needed to leave room for sidebar
-    margin-left: max(
-        calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap)),
-        min(
-            calc((100vw - var(--dg-content-max-width)) / 2),
-            calc(100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px)
-        )
-    );
+    // Fixed left margin for constant width file tree
+    margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap));
     margin-right: auto;
     font-size: var(--dg-content-font-size);
     line-height: var(--dg-content-line-height);
@@ -208,16 +199,7 @@ ul.task-list {
     top: var(--dg-sidebar-top);
 
     // Position after content: follows content's right edge + gap
-    // Content margin-left already accounts for sidebar, so this won't overlap
-    left: calc(
-        max(
-            calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap)),
-            min(
-                calc((100vw - var(--dg-content-max-width)) / 2),
-                calc(100vw - var(--dg-content-max-width) - var(--dg-sidebar-max-width) - var(--dg-sidebar-gap) - 20px)
-            )
-        ) + var(--dg-content-max-width) + var(--dg-sidebar-gap)
-    );
+    left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap) + var(--dg-content-max-width) + var(--dg-sidebar-gap));
 
     height: 100%;
     min-width: var(--dg-sidebar-min-width);
@@ -492,14 +474,8 @@ ul.task-list {
     height: 100%;
     background-color: var(--background-secondary);
     z-index: 10;
-    // Width: space from left edge to content (minus gap)
-    // Tracks the same max() logic as .content margin-left
-    width: calc(
-        max(
-            calc((100vw - var(--dg-content-max-width)) / 2),
-            calc(var(--dg-filetree-min-width) + var(--dg-filetree-gap))
-        ) - var(--dg-filetree-gap)
-    );
+    // Fixed width instead of dynamic calculation
+    width: var(--dg-filetree-width);
     min-width: var(--dg-filetree-min-width);
     display: flex;
     justify-content: flex-end;
@@ -554,9 +530,9 @@ ul.task-list {
     }
 
     .content {
-        margin-left: calc(var(--dg-filetree-width) + 20px);
+        margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap));
         margin-right: auto;
-        max-width: calc(100vw - var(--dg-filetree-width) - 50px);
+        max-width: calc(100vw - var(--dg-filetree-width) - var(--dg-filetree-gap) - 50px);
     }
 }
 
