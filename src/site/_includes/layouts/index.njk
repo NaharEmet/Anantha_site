@@ -29,22 +29,7 @@
       <div class="header-meta">
         {% if settings.dgShowTags === true and tags %}
           <div class="header-tags">
-            {% for tag in tags %} <script src="https://giscus.app/client.js"
-        data-repo="NaharEmet/Anantha"
-        data-repo-id="R_kgDOQzkKXw"
-        data-category="General"
-        data-category-id="DIC_kwDOQzkKX84C0kbS"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+            {% for tag in tags %}
               {% if tag != 'gardenEntry' and tag !='note' %}
                 <a class="tag" onclick="toggleTagSearch(this)">
                   #{{tag}}
@@ -90,21 +75,5 @@
       {% include imp %}
     {% endfor %}
     {%include "components/lucideIcons.njk"%}
-     <script src="https://giscus.app/client.js"
-        data-repo="NaharEmet/Anantha"
-        data-repo-id="R_kgDOQzkKXw"
-        data-category="General"
-        data-category-id="DIC_kwDOQzkKX84C0kbS"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
     </body>
   </html>
