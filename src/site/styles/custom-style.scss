@@ -37,7 +37,8 @@ body {
 }
 
 .toc {
-    max-height: calc(75vh - 80px); /* Slightly more height for the index */
+    height: auto; /* Let it expand to fit all content */
+    max-height: 75vh; /* But don't exceed 75% of screen height */
 }
 
 .backlinks {
