@@ -381,7 +381,8 @@ Seeding is:
 
 As systems mature, structure replaces curation.
 culture becomes self sustaining, not a governance function.
-[[/pages/seeding-and-attraction/\|seeding]]
+
+[[pages/Population Dynamics — Seeding & Attraction (System Paper)\|Population Dynamics — Seeding & Attraction (System Paper)]]
 
 ---
 
@@ -479,7 +480,7 @@ FABRIC exists to maintain **social coherence without coercion**.
 There is no enforcement authority.
 Constraint replaces force.
 
-[[pages/internal-governance-structure/\|asd]]
+[[pages/Internal governance structure\|Internal-governance-structure]]
 
 ---
 
