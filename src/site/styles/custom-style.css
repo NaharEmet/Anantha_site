@@ -1,50 +1,44 @@
 body {
   /***
-     ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-     IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+    Custom overrides
   ***/
   --dg-content-max-width: 100vw;
   --dg-toc-max-height: 75%;
   --dg-backlinks-max-height: 300px;
 }
 
-.content {
-  margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap));
-  margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap) + 20px);
-  /* Prevent overlap with sidebar */
-}
+/* ---------- DESKTOP LAYOUT ---------- */
+@media (min-width: 769px) {
+  .content {
+    margin-left: calc(var(--dg-filetree-width) + var(--dg-filetree-gap));
+    margin-right: calc(var(--dg-sidebar-max-width) + var(--dg-sidebar-gap) + 20px);
+  }
 
-.sidebar {
-  left: auto;
-  right: var(--dg-sidebar-gap);
-}
+  .sidebar {
+    left: auto;
+    right: var(--dg-sidebar-gap);
+    height: 100vh;
+  }
 
-.sidebar-container {
-  justify-content: flex-start;
-  height: 100%;
-  position: relative;
-}
+  .sidebar-container {
+    position: relative;
+    height: 100%;
+    justify-content: flex-start;
+  }
 
-.sidebar {
-  height: 100vh;
-  /* Make sidebar full viewport height */
-}
+  .toc {
+    height: auto;
+    max-height: 75vh;
+  }
 
-.toc {
-  height: auto;
-  /* Let it expand to fit all content */
-  max-height: 75vh;
-  /* But don't exceed 75% of screen height */
+  .backlinks {
+    position: absolute;
+    bottom: 25%;
+    left: 0;
+    right: 0;
+    margin-bottom: 0;
+  }
 }
-
-.backlinks {
-  position: absolute;
-  bottom: 25%;
-  left: 0;
-  right: 0;
-  margin-bottom: 0;
-}
-
 /* ---------- MOBILE FIX ---------- */
 @media (max-width: 768px) {
   .content {
@@ -56,9 +50,11 @@ body {
   .sidebar {
     position: static;
     height: auto;
+    right: auto;
   }
 
   .sidebar-container {
+    position: static;
     height: auto;
   }
 
