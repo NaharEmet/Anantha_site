@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anantha-home/","tags":["gardenEntry"]}
 ---
 
-
+# Home
 ## Regenerative Urban System
 
 Anantha is not a real‑estate project.
