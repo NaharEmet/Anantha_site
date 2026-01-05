@@ -44,3 +44,30 @@ body {
   right: 0;
   margin-bottom: 0;
 }
+
+/* ---------- MOBILE FIX ---------- */
+@media (max-width: 768px) {
+  .content {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: 100%;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto;
+  }
+
+  .sidebar-container {
+    height: auto;
+  }
+
+  .toc {
+    max-height: none;
+  }
+
+  .backlinks {
+    position: static;
+    margin-top: 1rem;
+  }
+}
