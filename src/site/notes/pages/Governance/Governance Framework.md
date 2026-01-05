@@ -5,17 +5,15 @@
 
 ### How Anantha Governs
 
-Anantha’s governance is not a philosophy of leadership, a council model, or a political ideology.
+Governance is not a philosophy of leadership, a council model, or a political ideology.
 
 It is a **designed system** intended to remain functional under scale, stress, and time—without relying on individual intelligence, morality, or restraint.
 
-
-
 ## Core Premise
 
-Anantha is designed with **zero expectation of individual intelligence, morality, or goodwill**.
+Anantha is designed with **no expectation of individual intelligence, morality, or goodwill**.
 
-Governance therefore lives in **structure, transparency, and constraint**, assisted by AI — not in people.
+Governance therefore lives in **structure, transparency, and constraint**, assisted by AI.
 
 All actions by governing and operating entities are recorded in a **public, immutable ledger**.
 
