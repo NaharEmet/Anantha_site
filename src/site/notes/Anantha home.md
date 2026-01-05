@@ -4,20 +4,14 @@
 
 Anantha is a **city-scale operating system** built on care, intelligence, and balance—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
-Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, aPublind ecosystems.
+Where conventional cities optimize for extraction, consumption, and short-term yield, this system is designed to **heal rather than exhaust**—people, communities, and ecosystems.
 
-In this model:
-
+###### In this model:
 - **Nature is infrastructure**
-    
 - **Community is capital**
-    
 - **Governance is transparent and earned**
-    
 - **Creativity is everyday life**
-    
 - **Sustainability is the foundation**
-    
 
 Wealth here is not measured only in financial output, but in **health, creativity, equity, and resilience**. Technology augments human goodwill and removes extractive labor—it does not replace care, judgment, or meaning.
 
@@ -29,42 +23,67 @@ A city designed not just to function—but to heal.
 
 ---
 
-## Core philosophy
+## Core Philosophy
 
-> Human prosperity cannot be separated from planetary health.
+Anantha is founded on a single premise: **human prosperity cannot be separated from planetary health**.  
+The city is designed as a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
 
-The design begins from three premises:
+This philosophy is expressed through four principles.
 
-- cities shape behavior through structure and incentives
-    
-- technology can absorb routine and extractive labor
-    
-- governance must live in **systems**, not individuals
-    
+---
 
-As production becomes increasingly automated, society itself must be re-architected to prevent stagnation, inequality, and ecological collapse.
+### Harmony Between People and Planet
+
+Human and natural systems are inseparable.  
+Urban form, infrastructure, and economic activity operate within ecological limits while actively restoring biodiversity, climate resilience, and long-term habitability.
+
+Nature functions as **core urban infrastructure**, not an externality.
+
+---
+
+### Cities Shape Behavior
+
+Cities are active systems that shape behavior through structure and incentives.  
+Anantha is designed so regenerative, cooperative, and efficient actions become the default—reducing reliance on individual compliance or enforcement.
+
+---
+
+### Technology Absorbs Routine Labor
+
+Automation and AI remove humans from repetitive and extractive work, redirecting effort toward care, creativity, stewardship, and governance.
+
+Technology amplifies human potential rather than replacing human purpose.
+
+---
+### Circular Economy
+
+Waste is eliminated by design. Materials, energy, water, and nutrients circulate within closed-loop systems.
+Key principles include: 
+- Design for reuse, repair, and disassembly
+- Local resource loops - 
+- Energy-positive buildings - 
+- Zero-waste food and material systems 
+The city itself becomes a regenerative metabolism rather than a linear consumer of resources.
+
+---
+### Governance Is Systemic
+
+Resilience cannot depend on individuals.  
+Governance is embedded in systems—rules, incentives, and feedback loops—ensuring transparency, continuity, and long-term alignment.
 
 ---
 
 ### Redefining Wealth
 
 Wealth is not a stock of money.  
-It is the **emergent outcome of a well-designed urban system**.
-
-###### Wealth is measured across interacting dimensions:
-
+It is the **emergent outcome of a well-designed system**.
+###### We measure Wealth across interacting dimensions:
 - physical and mental health
-    
 - time available for care, rest, and learning
-    
 - food security and sovereignty
-    
 - ecological regeneration capacity
-    
 - creativity, experimentation, and innovation
-    
 - visible and rewarded care for people and planet
-    
 
 Wealth increases when resources circulate, collaboration outperforms competition, and future repair is priced at the moment of action.
 
@@ -76,49 +95,12 @@ Wealth increases when resources circulate, collaboration outperforms competition
 
 ## Design Principles
 
-The system is built on a small set of non-negotiable principles:
-
--   Nature is infrastructure  — forests, water, food systems, and climate resilience are foundational, not decorative 
-    
+###### The system is built on a small set of non-negotiable principles
+- Nature is infrastructure  — forests, water, food systems, and climate resilience are foundational, not decorative 
 - **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
-    
-- [[Governance/Governance Framework\| Governance is structural]] — power is bounded, visible, and reversible
-    
+- Governance is structural — power is bounded, visible, and reversible
 - **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
-    
-- [[Society/Climate-Resilient and Green Urban Habitat\| Sustainability is the foundation]] — not a feature, not an add-on
-    
-
-
-
----
-
-#todo feels redundant maybe remove
-## The City as a System
-
-The city functions simultaneously as:
-
-- a place to live
-    
-- a production system
-    
-- a governance framework
-    
-- a learning organism
-    
-
-Value is created at the **system level** by:
-
-- reducing cost of living
-    
-- lowering coordination friction
-    
-- minimizing systemic risk
-    
-- increasing information flow and free time
-    
-- aligning livelihoods with regeneration
-    
+- **Sustainability is foundational** — not a feature, not an add-on
 
 [[Governance/The city as a system\|The city as a system]]
 
@@ -126,21 +108,15 @@ Value is created at the **system level** by:
 
 ## Good Governance through systems 
 
-This model does not assume individual intelligence or benevolence.
+our governance model does not assume individual intelligence or benevolence.
 
-Instead:
-
-- governance lives in transparent structure
-- The best person to solve a problem is a person affected by it
-    
+governance design principles:
+- transparent structure
 - structured incentives drive behavior
-    
+- Forward-deployed governance.
 - AI provides context, options, and consequence mapping
-    
 - no entity may both decide and enforce
-    
 - no decision may be hidden
-    
 
 Repair replaces punishment.  
 Visibility replaces force.
@@ -154,13 +130,9 @@ Visibility replaces force.
 India—and the world—are entering a decisive phase of urban transition.
 
 ###### Cities face **intersecting pressures**:
-
 - escalating climate stress (heat, floods, water scarcity)
-    
-- rising infrastructure and healthcare lifecycle costs
-    
+- rising infrastructure and healthcare life-cycle costs
 - fragmented governance and declining institutional trust
-    
 - approval delays, regulatory uncertainty, and execution risk
     
 

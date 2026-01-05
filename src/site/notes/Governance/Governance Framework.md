@@ -175,7 +175,7 @@ _(See: Infrastructure Operations)_
 
 ---
 
-### 5. Physical Safety — **Security (Subcontracted)**
+### 5. Physical Safety — **Security**
 
 **Function:** Maintain immediate physical safety only.
 
