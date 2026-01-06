@@ -88,20 +88,19 @@ Anantha is designed so regenerative, cooperative, and efficient actions become t
 
 ### Technology Absorbs Routine Labor
 
-Automation and AI remove humans from repetitive and extractive work, redirecting effort toward care, creativity, stewardship, and governance.
+Automation and AI remove humans from repetitive and manual work, redirecting effort toward care, creativity, stewardship, and governance.
 
 Technology amplifies human potential rather than replacing human purpose.
 
 ---
 ### Circular Economy
 
-Waste is eliminated by design. Materials, energy, water, and nutrients circulate within closed-loop systems.
-Key principles include: 
-- Design for reuse, repair, and disassembly
-- Local resource loops - 
-- Energy-positive buildings - 
-- Zero-waste food and material systems 
-The city itself becomes a regenerative metabolism rather than a linear consumer of resources.
+Anantha operates as a closed-loop system. Materials, energy, water, and nutrients circulate in regenerative cycles rather than being consumed and discarded.
+
+Waste is eliminated at the design level. Resources are structured for reuse, repair, and reintegration, with local circulation and energy-positive infrastructure.
+
+The city does not function as a linear consumer of inputs.  
+It behaves as a living metabolism that restores what it uses.
 
 ---
 ### Governance Is Systemic
