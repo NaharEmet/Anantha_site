@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/the-city-as-a-system/"}
+{"dg-publish":true,"permalink":"/governance/the-city-as-a-system/","created":"2026-01-07T00:11:27.249+05:30","updated":"2026-01-07T00:26:32.402+05:30"}
 ---
 
 ## A City Is Not a Place. It Is a Machine.
@@ -222,7 +222,7 @@ Anantha creates value by structurally:
 
 These changes produce **compounding gains** in well-being, innovation, and resilience.
 
-[[Wealth/Redefining Wealth\|Redefining Wealth]]
+[[Wealth/Defining Wealth\|Defining Wealth]]
 
 ---
 

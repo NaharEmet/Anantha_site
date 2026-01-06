@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/governance-framework/"}
+{"dg-publish":true,"permalink":"/governance/governance-framework/","created":"2026-01-05T23:23:09.762+05:30","updated":"2026-01-05T23:23:09.762+05:30"}
 ---
 
 

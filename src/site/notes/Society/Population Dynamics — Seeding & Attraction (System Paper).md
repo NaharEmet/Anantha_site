@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/society/population-dynamics-seeding-and-attraction-system-paper/"}
+{"dg-publish":true,"permalink":"/society/population-dynamics-seeding-and-attraction-system-paper/","created":"2026-01-04T21:32:02.078+05:30","updated":"2026-01-04T21:54:58.767+05:30"}
 ---
 
 
