@@ -42,7 +42,7 @@ Anantha is designed as a layered, interacting system rather than a collection of
 ##### Each layer constrains and reinforces the others.
 
 - **Ecological Base Layer**  
-  Land, water, biodiversity, climate resilience, and food systems form the non-negotiable foundation. All higher layers operate within ecological thresholds.
+  Land, water, biodiversity, climate resilience, and food systems form the foundation. All layers operate within ecological thresholds.
 
 - **Social & Care Layer**  
   Health, education, care work, cultural life, and social trust are treated as productive infrastructure rather than externalities.
