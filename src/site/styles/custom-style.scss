@@ -5,7 +5,30 @@ body {
   --dg-content-max-width: 100vw;
   --dg-toc-max-height: 75%;
   --dg-backlinks-max-height: 300px;
+
+
 }
+
+
+.content a {
+  color: #1e88e5 !important;
+}
+
+.content a:visited {
+  color: #155e75 !important;
+}
+  .content a:hover {
+  color: #7dd3fc !important;
+}
+
+
+
+em, i {
+  color: #7dd3fc;
+  font-style: italic;
+  opacity: 0.9;
+}
+
 
 /* ---------- DESKTOP LAYOUT ---------- */
 @media (min-width: 769px) {
@@ -38,6 +61,8 @@ body {
     right: 0;
     margin-bottom: 0;
   }
+
+
 }
 
 /* ---------- MOBILE FIX ---------- */
@@ -67,4 +92,6 @@ body {
     position: static;
     margin-top: 1rem;
   }
+  
 }
+
