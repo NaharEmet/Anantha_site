@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"],"created":"2026-01-07T00:11:27.250+05:30","updated":"2026-01-07T02:06:40.520+05:30"}
+{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"],"created":"2026-01-07T14:06:00.289+05:30","updated":"2026-01-07T14:06:00.289+05:30"}
 ---
 
 # Anantha

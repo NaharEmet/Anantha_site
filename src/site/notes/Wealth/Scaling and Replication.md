@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth/scaling-and-replication/","created":"2026-01-04T21:32:08.599+05:30","updated":"2026-01-04T21:32:08.600+05:30"}
+{"dg-publish":true,"permalink":"/wealth/scaling-and-replication/","created":"2026-01-05T21:31:29.517+05:30","updated":"2026-01-05T21:31:29.517+05:30"}
 ---
 
 

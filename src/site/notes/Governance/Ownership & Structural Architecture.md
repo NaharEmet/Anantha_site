@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/ownership-and-structural-architecture/","created":"2026-01-04T21:31:59.630+05:30","updated":"2026-01-04T21:31:59.630+05:30"}
+{"dg-publish":true,"permalink":"/governance/ownership-and-structural-architecture/","created":"2026-01-05T21:31:29.515+05:30","updated":"2026-01-05T21:31:29.516+05:30"}
 ---
 
 

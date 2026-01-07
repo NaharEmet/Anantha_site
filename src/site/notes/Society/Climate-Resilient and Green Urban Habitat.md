@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/society/climate-resilient-and-green-urban-habitat/","created":"2026-01-05T16:43:48.410+05:30","updated":"2026-01-05T17:45:50.606+05:30"}
+{"dg-publish":true,"permalink":"/society/climate-resilient-and-green-urban-habitat/","created":"2026-01-05T21:31:29.516+05:30","updated":"2026-01-05T21:31:29.516+05:30"}
 ---
 
 

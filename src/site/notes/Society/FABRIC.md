@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/society/fabric/","created":"2026-01-04T21:31:39.256+05:30","updated":"2026-01-05T15:58:34.447+05:30"}
+{"dg-publish":true,"permalink":"/society/fabric/","created":"2026-01-05T21:31:29.516+05:30","updated":"2026-01-05T21:31:29.517+05:30"}
 ---
 
 
