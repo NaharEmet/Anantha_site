@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"],"created":"2026-01-07T14:06:00.289+05:30","updated":"2026-01-07T14:06:00.289+05:30"}
+{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"]}
 ---
 
 # Anantha
@@ -136,12 +136,12 @@ Wealth increases when resources circulate, collaboration outperforms competition
 our governance model does not assume individual intelligence or benevolence.
 
 governance design principles
-- transparent structure
-- structured incentives drive behavior
-- Forward-deployed governance
-- AI provides context, options, and consequence mapping
-- no entity may both decide and enforce
-- no decision may be hidden
+- **transparent structure**
+- **structured incentives drive behavior****
+- **Forward-deployed governance**
+- **AI provides context, options, and consequence mapping**
+- **no entity may both decide and enforce**
+- **no decision may be hidden**
 
 Repair replaces punishment.  
 Visibility replaces force.

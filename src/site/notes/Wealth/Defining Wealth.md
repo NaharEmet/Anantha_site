@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth/defining-wealth/","tags":["anantha","wealth"],"created":"2026-01-07T14:06:00.289+05:30","updated":"2026-01-07T14:06:00.289+05:30"}
+{"dg-publish":true,"permalink":"/wealth/defining-wealth/","tags":["anantha","wealth"]}
 ---
 
 # Defining Wealth  

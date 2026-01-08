@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth/the-city-as-a-value-engine/","created":"2026-01-05T21:31:29.517+05:30","updated":"2026-01-05T21:31:29.517+05:30"}
+{"dg-publish":true,"permalink":"/wealth/the-city-as-a-value-engine/"}
 ---
 
 # The City as a Value Engine

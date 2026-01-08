@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/the-city-as-a-system/","created":"2026-01-07T14:06:00.289+05:30","updated":"2026-01-07T14:06:00.289+05:30"}
+{"dg-publish":true,"permalink":"/governance/the-city-as-a-system/"}
 ---
 
 ## A City Is Not a Place. It Is a Machine.

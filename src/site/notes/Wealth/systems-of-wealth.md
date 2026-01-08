@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wealth/systems-of-wealth/","created":"2026-01-07T14:06:00.290+05:30","updated":"2026-01-07T14:06:00.290+05:30"}
+{"dg-publish":true,"permalink":"/wealth/systems-of-wealth/"}
 ---
 
 # How TO Create Multi-Dimensional Wealth  
