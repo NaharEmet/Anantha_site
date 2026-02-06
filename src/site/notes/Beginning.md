@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"],"created":"2026-01-09T00:23:32.666+05:30","updated":"2026-01-09T00:24:40.230+05:30"}
+{"dg-publish":true,"permalink":"/beginning/","tags":["gardenEntry"]}
 ---
 
 # Anantha
@@ -23,16 +23,18 @@ It is not a finished product, but a **replicable urban operating system**—one 
 
 A city designed not just to function—but to heal.
 
+
 ---
 
-## Design Principles
+## Design Principles & Philosophy
 
-###### The system is built on a small set of non-negotiable principles
-- **Nature is infrastructure**  — forests, water, food systems, and climate resilience are foundational, not decorative 
-- **Community is capital** — social trust, care, and cooperation are explicitly supported and rewarded
-- **Governance is a system** — power is bounded, visible, and reversible
-- **Creativity is everyday life** — experimentation is embedded into urban form, policy, and culture
-- **Sustainability is foundational** — not a feature, not an add-on
+Anantha is a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
+
+- **Nature is Infrastructure:** Not an externality, but the foundation for food, water, and climate resilience.
+- **Community is Capital:** Social trust and care are explicitly supported and rewarded.
+- **Systemic Governance:** Power is bounded and transparent; rules and incentives drive defaults.
+- **Technology as an Augment:** AI and automation absorb routine labor to prioritize human creativity and stewardship.
+- **Circular Metabolism:** A closed-loop system where waste is eliminated at the design level.
 
 ---
 
@@ -59,75 +61,24 @@ Anantha is designed as a layered, interacting system rather than a collection of
 
 Together, these layers form a living urban operating system designed to remain resilient under stress, scale across regions, and adapt over time.
 
----
 
-[[Governance/The city as a system\|The city as a system]]
-## Core Philosophy
-
-Anantha is founded on a single premise: **human prosperity cannot be separated from planetary health**.  
-The city is designed as a living system where ecological integrity, social well-being, and economic vitality reinforce one another.
-
-This philosophy is expressed through four principles.
+[[Main/Governance/The city as a system\|The city as a system]]
 
 ---
 
-### Harmony Between People and Planet
 
-Human and natural systems are inseparable.  
-Urban form, infrastructure, and economic activity operate within ecological limits while actively restoring biodiversity, climate resilience, and long-term habitability.
+## Redefining Wealth
 
-Nature functions as **core urban infrastructure**, not an externality.
+Wealth is not a stock of money; it is the **emergent outcome of a well-designed system.**
 
----
+###### Dimensions of Systemic Wealth:
 
-### Cities Shape Behavior
-
-Cities are active systems that shape behavior through structure and incentives.  
-Anantha is designed so regenerative, cooperative, and efficient actions become the default—reducing reliance on individual compliance or enforcement.
-
----
-
-### Technology Absorbs Routine Labor
-
-Automation and AI remove humans from repetitive and manual work, redirecting effort toward care, creativity, stewardship, and governance.
-
-Technology amplifies human potential rather than replacing human purpose.
-
----
-### Circular Economy
-
-Anantha operates as a closed-loop system. Materials, energy, water, and nutrients circulate in regenerative cycles rather than being consumed and discarded.
-
-Waste is eliminated at the design level. Resources are structured for reuse, repair, and reintegration, with local circulation and energy-positive infrastructure.
-
-The city does not function as a linear consumer of inputs.  
-It behaves as a living metabolism that restores what it uses.
-
----
-### Governance Is Systemic
-
-Resilience cannot depend on individuals.  
-Governance is embedded in systems—rules, incentives, and feedback loops—ensuring transparency, continuity, and long-term alignment.
-
----
-
-### Redefining Wealth
-
-Wealth is not a stock of money.  
-It is the **emergent outcome of a well-designed system**.
-###### We measure Wealth across interacting dimensions:
-- physical and mental health
-- time available for care, rest, and learning
-- food security and sovereignty
-- ecological regeneration capacity
-- creativity, experimentation, and innovation
-- visible and rewarded care for people and planet
-
-Wealth increases when resources circulate, collaboration outperforms competition, and future repair is priced at the moment of action.
+- **Resilience:** Health, food sovereignty, and ecological regeneration capacity.
+- **Agency:** Time available for care, rest, learning, and experimentation.
+- **Circulation:** Visible and rewarded contributions to the commons.
 
 **Wealth is not owned. It is maintained.**
-
-[[Wealth/Defining Wealth\|Defining Wealth]]
+[[Main/Wealth/Defining Wealth\|Defining Wealth]]
 
 ---
 
@@ -146,7 +97,7 @@ governance design principles
 Repair replaces punishment.  
 Visibility replaces force.
 
-[[Governance/Governance Framework\|Governance Framework]]
+[[Main/Governance/Governance Framework\|Governance Framework]]
 
 ---
 
@@ -159,13 +110,14 @@ India—and the world—are entering a decisive phase of urban transition.
 - rising infrastructure and healthcare life-cycle costs
 - fragmented governance and declining institutional trust
 - approval delays, regulatory uncertainty, and execution risk
-    
+
 
 At the same time, capital is increasingly sensitive to **long-term resilience, ESG alignment, and downside protection**.
 
 Conventional developments continue to optimize for speed and near-term yield, systematically externalizing future repair, climate exposure, and governance risk.
 
 This system responds by embedding resilience, circularity, and governance transparency **at the design stage**, lowering lifecycle risk while enabling durable, long-horizon value creation.
+
 
 ---
 
