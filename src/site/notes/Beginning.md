@@ -3,6 +3,7 @@
 ---
 
 # Anantha
+
 ## A Blueprint for Future Urbanism
 a **city-scale system** built on care, collective wisdom, and regeneration—designed to prove that human prosperity and planetary health are not trade-offs, but co-dependencies.
 
